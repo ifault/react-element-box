@@ -16,7 +16,6 @@ function App() {
 export default
 ```
 
-
 ## Options
 
 | Prop             | Type                                                              | Default                  |
@@ -27,4 +26,4 @@ export default
 
 ## Demo
 
-![1727696624686](public/image.png)
+![1727696624686](dist/public/image.png)

@@ -1,6 +1,6 @@
 {
     "name": "react-element-box",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A React component library for creating customizable and stylish element box ",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
@@ -9,6 +9,9 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "rollup": "rollup -c --bundleConfigAsCjs"
     },
+    "files": [
+        "dist"
+    ],
     "author": "bien.sun@hotmail.com",
     "license": "ISC",
     "dependencies": {
@@ -24,5 +27,8 @@
         "rollup-plugin-postcss": "^4.0.2",
         "tslib": "^2.7.0",
         "typescript": "^5.5.3"
+    },
+    "devDependencies": {
+        "rollup-plugin-copy": "^3.5.0"
     }
 }
