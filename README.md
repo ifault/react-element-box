@@ -24,6 +24,6 @@ export default
 | style            | strokeColor: string<br />strokeWidth: number<br />dashed: boolean | #6171fe<br />2<br />true |
 | defaultMaskColor | string `<rgb>`                                                  | rgba(144, 238, 144, 0.1) |
 
-## Demo
+## Screenshot
 
-![1727696624686](dist/public/image.png)
+![Demo](https://raw.githubusercontent.com/ifault/react-element-box/main/public/image.png "Demo")
